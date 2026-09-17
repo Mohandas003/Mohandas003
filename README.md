@@ -1,6 +1,5 @@
 # Hi 👋, I'm Mohandas C S
 
-### A passionate Python Full Stack Developer from India 🇮🇳
 
 - 🌱 I'm currently learning **Advanced Django & React.js**
 - 🤝 I'm looking for opportunities in **Python Full Stack Development**
