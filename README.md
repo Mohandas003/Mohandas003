@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Mohandas C S
 
-<!--
-**Mohandas003/Mohandas003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Python Full Stack Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning **Advanced Django & React.js**
+- 🤝 I'm looking for opportunities in **Python Full Stack Development**
+- 👨‍💻 All of my projects are available on **GitHub**
+- 💬 Ask me about **Python, Django, React.js, REST APIs, MySQL, PostgreSQL & Odoo**
+- 📫 How to reach me: **iamcsmohandas@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,mysql,postgres,git,github,docker,azure" />
+</p>
