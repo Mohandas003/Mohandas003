@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning **Advanced Django & React.js**
 - 🤝 I'm looking for opportunities in **Python Full Stack Development**
 - 👨‍💻 All of my projects are available on **GitHub**
-- 💬 Ask me about **Python, Django, React.js, REST APIs, MySQL, PostgreSQL & Odoo**
+- 💬 Ask me about **HTML,CSS,Python, Django, React.js, REST APIs, MySQL,**
 - 📫 How to reach me: **iamcsmohandas@gmail.com**
 
 ---
